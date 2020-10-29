@@ -6,4 +6,4 @@ git clone https://gitlab.com/BenjaminDobell/Heimdall.git
 sudo apt update
 
 sudo apt -y -s install wget android-tools-fastboot android-tools-adb android-sdk-platform-tools-common android-tools-fsutils libusb-1.0-0-dev exfat-fuse
-go-mtpfs libmtp mtpfs mtp-tools
+go-mtpfs mtpfs mtp-tools
