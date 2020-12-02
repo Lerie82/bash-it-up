@@ -3,8 +3,8 @@
 #check imei from imeidb.xyz
 
 if [ -z $1 ]; then
-        echo "please provide an IMEI"
-        exit
+	echo "please provide an IMEI"
+	exit
 fi
 
 #api key from imei.info
